@@ -1,4 +1,8 @@
-# TFJSObjectDetection
+# Real Time Object Detection with audio output
+
+It is a web application that helps to detect and identify various objects in live video resulting in audio output using Web Speech API. It uses the TensorFlow framework and COCO-SSD model for localizing and identifying multiple objects.
+
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
